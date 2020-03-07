@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Jan",
+    "lastname": "Kowalski",
+    "age": 44,
+    "bankAccount": {
+      "id": 1,
+      "name": "BankDlaBogatych",
+      "balance": 55555.0,
+      "accountNo": 6555
+    }
+  },
+  {
+    "name": "Marcin",
+    "lastname": "Nowak",
+    "age": 66,
+    "bankAccount": {
+      "id": 2,
+      "name": "BankNowoczesny",
+      "balance": 4444.0,
+      "accountNo": 6532455
+    }
+  },
+  {
+    "name": "Katarzyna",
+    "lastname": "Dobroń",
+    "age": 33,
+    "bankAccount": {
+      "id": 3,
+      "name": "Bank",
+      "balance": 3333.0,
+      "accountNo": 234234
+    }
+  },
+  {
+    "name": "Ola",
+    "lastname": "Lewandowska",
+    "age": 33,
+    "bankAccount": {
+      "id": 4,
+      "name": "BigBank",
+      "balance": 2222.44,
+      "accountNo": 2342
+    }
+  }
+]
